@@ -1,7 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://orange-hounds-move.loca.lt](https://orange-hounds-move.loca.lt)**
+👉 **[https://little-pears-share.loca.lt](https://little-pears-share.loca.lt)**
 
-- **Started:** 2026-09-01 15:30:32 UTC
+- **Started:** 2026-09-01 15:36:36 UTC
 - **Shift:** 270 mins
-- **JSON test:** https://orange-hounds-move.loca.lt/search?q=hello&format=json
+- **Self-test:** FAILED: <urlopen error [Errno 111] Connection refused>
+- **JSON test:** https://little-pears-share.loca.lt/search?q=hello&format=json
