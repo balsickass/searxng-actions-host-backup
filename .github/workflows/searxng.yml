@@ -28,4 +28,7 @@ jobs:
           cd /tmp/searxng
           pip install msgspec ujson pyyaml jinja2 lxml html5lib requests pygments setuptools
           pip install --no-build-isolation -e .
-          python3 -c "import searx; print('SearXNG module verified!')"
+          pip install granian
+      - name: Start SearXNG & Expose via Pinggy
+        run: |
+          python run_searxng.py
