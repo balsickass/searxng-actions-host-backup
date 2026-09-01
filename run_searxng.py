@@ -6,25 +6,25 @@ import sys
 
 print("Starting SearXNG Host Script...")
 
-# Use the STOCK settings.yml from the repo, just patch it minimally:
-# 1. secret_key must be set
-# 2. json format must be in search.formats
-# 3. limiter off (otherwise botdetection blocks us)
 settings_path = "/tmp/searxng/searx/settings.yml"
 with open(settings_path) as f:
     content = f.read()
 
-content = content.replace('secret_key: "ultrasecret"', 'secret_key: "gh-actions-searx-key-2026"')
-# formats block: stock has only html + csv + rss. Add json.
-content = content.replace('- html\n    - csv', '- html\n    - csv\n    - json')
+# Stock default: secret_key: 'ultrasecretkey'
+import re as _re
+content = _re.sub(r'secret_key:.*', 'secret_key: "gh-actions-searx-key-2026"', content, count=1)
+# add json to formats
+if "- json" not in content:
+    content = content.replace('- html', '- html\n    - json', 1)
 # disable limiter
-content = content.replace('limiter: true', 'limiter: false')
+content = _re.sub(r'limiter: true', 'limiter: false', content)
+# debug off
+content = _re.sub(r'debug: true', 'debug: false', content)
 
 with open(settings_path, "w") as f:
     f.write(content)
 
-print("Settings patched (secret_key, json format, limiter off)")
-print("Verifying 'json' present:", "- json" in content)
+print("Patched. secret_key present:", "gh-actions-searx-key-2026" in content, "| json in formats:", "- json" in content)
 
 os.environ["SEARXNG_SETTINGS_PATH"] = settings_path
 
@@ -36,9 +36,9 @@ searx_proc = subprocess.Popen(
     stderr=subprocess.STDOUT,
     text=True
 )
-print("SearXNG spawned with stock settings.")
+print("SearXNG spawned.")
 
-time.sleep(5)
+time.sleep(6)
 
 import socket
 s = socket.socket()
@@ -47,7 +47,6 @@ is_open = s.connect_ex(('127.0.0.1', 8888)) == 0
 s.close()
 print("Port open:", is_open)
 
-# SELF-TEST
 import urllib.request as ur
 self_test = "UNKNOWN"
 try:
@@ -93,9 +92,9 @@ with open("LIVE_URL.md", "w") as f:
 subprocess.run(["git", "config", "--global", "user.name", "balsicl1234"])
 subprocess.run(["git", "config", "--global", "user.email", "balsicl1234@users.noreply.github.com"])
 subprocess.run(["git", "add", "LIVE_URL.md", "searx.log"])
-subprocess.run(["git", "commit", "-m", f"update live url: {public_url} self-test={self_test}"])
+subprocess.run(["git", "commit", "-m", f"url: {public_url} selftest={self_test}"])
 subprocess.run(["git", "push"])
-print("Pushed with self-test result!")
+print("Pushed!")
 
 for i in range(270):
     time.sleep(60)
