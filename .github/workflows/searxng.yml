@@ -22,9 +22,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Clone & Build SearXNG
+      - name: Clone & Install SearXNG Dependencies
         run: |
           git clone https://github.com/searxng/searxng.git /tmp/searxng
           cd /tmp/searxng
+          # Install compile-time and run-time deps manually
+          pip install msgspec ujson pyyaml jinja2 lxml html5lib requests pygments setuptools
+          # Install edit mode
           pip install -e .
           python3 -c "import searx; print('SearXNG module verified!')"
