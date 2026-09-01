@@ -1,18 +1,4 @@
-INFO:     Started server process [2338]
-INFO:     Waiting for application startup.
-INFO:     ASGI 'lifespan' protocol appears unsupported.
-INFO:     Application startup complete.
-INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
-ERROR:    Exception in ASGI application
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/uvicorn/protocols/http/httptools_impl.py", line 422, in run_asgi
-    result = await app(  # type: ignore[func-returns-value]
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 63, in __call__
-    return await self.app(scope, receive, send)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/uvicorn/middleware/asgi2.py", line 14, in __call__
-    instance = self.app(scope)
-               ^^^^^^^^^^^^^^^
-TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
-INFO:     66.234.147.220:0 - "GET /search?q=test&format=json HTTP/1.1" 500 Internal Server Error
+Usage: granian [OPTIONS] APP
+Try 'granian --help' for help.
+
+Error: Got unexpected extra argument (searx.webapp:app)
