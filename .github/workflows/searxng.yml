@@ -22,10 +22,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install & Start SearXNG
+      - name: Clone & Build SearXNG
         run: |
-          sudo apt-get update
-          sudo apt-get install -y python3-pip python3-setuptools python3-wheel git
-          pip install granian searxng || true
-          # Test running searxng engine in background for 10 minutes test window
-          python3 -c "import searx; print('SearXNG module imported successfully')"
+          git clone https://github.com/searxng/searxng.git /tmp/searxng
+          cd /tmp/searxng
+          pip install -e .
+          python3 -c "import searx; print('SearXNG module verified!')"
