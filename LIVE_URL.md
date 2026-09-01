@@ -1,6 +1,7 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://two-apes-rule.loca.lt](https://two-apes-rule.loca.lt)**
+👉 **[https://orange-hounds-move.loca.lt](https://orange-hounds-move.loca.lt)**
 
-- **Started:** 2026-09-01 15:14:23 UTC
+- **Started:** 2026-09-01 15:30:32 UTC
 - **Shift:** 270 mins
+- **JSON test:** https://orange-hounds-move.loca.lt/search?q=hello&format=json
