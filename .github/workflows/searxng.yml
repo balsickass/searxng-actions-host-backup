@@ -26,8 +26,6 @@ jobs:
         run: |
           git clone https://github.com/searxng/searxng.git /tmp/searxng
           cd /tmp/searxng
-          # Install compile-time and run-time deps manually
           pip install msgspec ujson pyyaml jinja2 lxml html5lib requests pygments setuptools
-          # Install edit mode
-          pip install -e .
+          pip install --no-build-isolation -e .
           python3 -c "import searx; print('SearXNG module verified!')"
