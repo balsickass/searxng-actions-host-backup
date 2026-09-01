@@ -39,8 +39,6 @@ print("Starting ngrok/localtunnel setup...")
 subprocess.run(["sudo", "npm", "install", "-g", "localtunnel"])
 
 # Expose via localtunnel
-# Note: Localtunnel has a browser wall warning. To bypass it for API/json calls,
-# the client MUST send the HTTP Header 'Bypass-Tunnel-Reminder: true'.
 lt_proc = subprocess.Popen(
     ["lt", "--port", "8888"],
     stdout=subprocess.PIPE,
@@ -79,17 +77,27 @@ subprocess.run(["git", "commit", "-m", f"update live url: {public_url}"])
 subprocess.run(["git", "push"])
 print("LIVE_URL.md pushed to GitHub!")
 
-# Holding loop keeping process active
-try:
-    for i in range(270):
-        if searx_proc.poll() is not None:
-            break
-        if lt_proc.poll() is not None:
-            break
-        time.sleep(60)
-except KeyboardInterrupt:
-    pass
-
-searx_proc.terminate()
-lt_proc.terminate()
-print("Clean shutdown complete.")
+# Completely robust holding loop keeping actions workflow active for 5 hours (270 minutes)
+print("Entering permanent holding loop (270 minutes)...")
+for i in range(270):
+    time.sleep(60)
+    print(f"Shift uptime: {i+1} minutes / 270")
+    # Quick check if processes are alive, restart them if they drop
+    if searx_proc.poll() is not None:
+        print("SearXNG dropped! Restarting process...")
+        searx_proc = subprocess.Popen(
+            ["granian", "wsgi", "127.0.0.1:8888", "searx.webapp:app"],
+            cwd="/tmp/searxng",
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+            text=True
+        )
+    if lt_proc.poll() is not None:
+        print("Tunnel dropped! Restarting...")
+        lt_proc = subprocess.Popen(
+            ["lt", "--port", "8888"],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            bufsize=1
+        )
