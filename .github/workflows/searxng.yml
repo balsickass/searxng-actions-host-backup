@@ -28,7 +28,7 @@ jobs:
           cd /tmp/searxng
           pip install msgspec ujson pyyaml jinja2 lxml html5lib requests pygments setuptools
           pip install --no-build-isolation -e .
-          pip install uvicorn[standard] granian
+          pip install waitress
       - name: Start SearXNG & Expose via Localtunnel
         run: |
           python run_searxng.py
