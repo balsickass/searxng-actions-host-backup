@@ -1,1 +1,5 @@
-/opt/hostedtoolcache/Python/3.11.16/x64/bin/python3: No module named uvicorn
+INFO:     Started server process [2338]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8888 (Press CTRL+C to quit)
