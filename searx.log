@@ -1,4 +1,1 @@
-Usage: granian [OPTIONS] APP
-Try 'granian --help' for help.
-
-Error: Got unexpected extra argument (searx.webapp:app)
+2026-09-01 14:58:23,777 INFO:waitress: Serving on http://127.0.0.1:8888
