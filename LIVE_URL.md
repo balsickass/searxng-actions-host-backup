@@ -1,10 +1,6 @@
 # 🌐 Live SearXNG URL
 
-Your cloud-hosted SearXNG is active at:
+👉 **[https://two-apes-rule.loca.lt](https://two-apes-rule.loca.lt)**
 
-👉 **[https://yellow-experts-sleep.loca.lt](https://yellow-experts-sleep.loca.lt)**
-
-### Status Info:
-- **Started at:** 2026-09-01 15:09:01 UTC
-- **Shift Duration:** 4 hours 30 minutes (270 mins)
-- **Test JSON:** [https://yellow-experts-sleep.loca.lt/search?q=what+is+python&format=json](https://yellow-experts-sleep.loca.lt/search?q=what+is+python&format=json)
+- **Started:** 2026-09-01 15:14:23 UTC
+- **Shift:** 270 mins
