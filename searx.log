@@ -1,1 +1,6 @@
-2026-09-01 15:36:23,237 ERROR:searx.webapp: server.secret_key is not changed. Please use something else instead of ultrasecretkey.
+2026-09-01 15:39:13,211 ERROR:searx.engines: (PID 2192) ahmia: can't register engine (loading engine failed)
+2026-09-01 15:39:13,396 ERROR:searx.engines: (PID 2192) torch: can't register engine (loading engine failed)
+2026-09-01 15:39:13,456 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-09-01 15:39:17,389 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-09-01 15:39:17,616 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-09-01 15:39:17,791 WARNING:searx.engines.startpage: ErrorContext('searx/engines/startpage.py', 209, 'raise SearxEngineCaptchaException(', 'searx.exceptions.SearxEngineCaptchaException', None, ('get_sc_code: got redirected to https://www.startpage.com/sp/captcha (suspended_time=3600)',)) False
