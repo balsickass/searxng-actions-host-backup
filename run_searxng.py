@@ -96,6 +96,28 @@ subprocess.run(["git", "commit", "-m", f"url: {public_url} selftest={self_test}"
 subprocess.run(["git", "push"])
 print("Pushed!")
 
+# Update stable Cloudflare worker KV with the current tunnel URL
+import os as _os
+try:
+    _acct = _os.environ["CF_ACCOUNT_ID"]
+    _tok = _os.environ["CF_API_TOKEN"]
+    _ns = _os.environ["CF_KV_NAMESPACE"]
+    _req = ur.Request(
+        f"https://api.cloudflare.com/client/v4/accounts/{_acct}/storage/kv/namespaces/{_ns}/values/current_url",
+        data=public_url.encode(),
+        method="PUT",
+        headers={"Authorization": f"Bearer {_tok}"},
+    )
+    _resp = ur.urlopen(_req, timeout=20)
+    print("KV update:", _resp.status)
+    with open("LIVE_URL.md", "a") as f:
+        f.write(f"\n- **Stable URL:** https://searxng-stable.qasmynhmdmhdy.workers.dev (never changes)\n")
+    subprocess.run(["git", "add", "LIVE_URL.md"])
+    subprocess.run(["git", "commit", "-m", "docs: stable url note"])
+    subprocess.run(["git", "push"])
+except Exception as _e:
+    print("KV update FAILED:", _e)
+
 for i in range(270):
     time.sleep(60)
     if i % 10 == 0:
