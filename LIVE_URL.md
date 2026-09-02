@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://soft-areas-lose.loca.lt](https://soft-areas-lose.loca.lt)**
+👉 **[https://itchy-mangos-cut.loca.lt](https://itchy-mangos-cut.loca.lt)**
 
-- **Started:** 2026-09-01 20:10:05 UTC
+- **Started:** 2026-09-02 00:14:45 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://soft-areas-lose.loca.lt/search?q=hello&format=json
+- **JSON test:** https://itchy-mangos-cut.loca.lt/search?q=hello&format=json
