@@ -1,10 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://moody-hounds-ring.loca.lt](https://moody-hounds-ring.loca.lt)**
+👉 **[https://tired-planets-float.loca.lt](https://tired-planets-float.loca.lt)**
 
-- **Started:** 2026-09-02 15:15:29 UTC
+- **Started:** 2026-09-02 20:10:19 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://moody-hounds-ring.loca.lt/search?q=hello&format=json
-
-- **Stable URL:** https://searxng-stable.qasmynhmdmhdy.workers.dev (never changes)
+- **JSON test:** https://tired-planets-float.loca.lt/search?q=hello&format=json
