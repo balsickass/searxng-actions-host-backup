@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://wide-readers-cheer.loca.lt](https://wide-readers-cheer.loca.lt)**
+👉 **[https://brown-baboons-stay.loca.lt](https://brown-baboons-stay.loca.lt)**
 
-- **Started:** 2026-09-03 05:39:47 UTC
+- **Started:** 2026-09-03 10:11:28 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://wide-readers-cheer.loca.lt/search?q=hello&format=json
+- **JSON test:** https://brown-baboons-stay.loca.lt/search?q=hello&format=json
