@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://evil-lemons-film.loca.lt](https://evil-lemons-film.loca.lt)**
+👉 **[https://true-forks-rest.loca.lt](https://true-forks-rest.loca.lt)**
 
-- **Started:** 2026-09-03 15:10:16 UTC
+- **Started:** 2026-09-03 20:10:13 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://evil-lemons-film.loca.lt/search?q=hello&format=json
+- **JSON test:** https://true-forks-rest.loca.lt/search?q=hello&format=json
