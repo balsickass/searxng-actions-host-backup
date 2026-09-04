@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://true-forks-rest.loca.lt](https://true-forks-rest.loca.lt)**
+👉 **[https://dull-pans-lie.loca.lt](https://dull-pans-lie.loca.lt)**
 
-- **Started:** 2026-09-03 20:10:13 UTC
+- **Started:** 2026-09-04 00:15:14 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://true-forks-rest.loca.lt/search?q=hello&format=json
+- **JSON test:** https://dull-pans-lie.loca.lt/search?q=hello&format=json
