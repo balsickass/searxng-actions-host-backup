@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://common-poets-pay.loca.lt](https://common-poets-pay.loca.lt)**
+👉 **[https://happy-geese-give.loca.lt](https://happy-geese-give.loca.lt)**
 
-- **Started:** 2026-09-05 15:09:27 UTC
+- **Started:** 2026-09-05 20:09:53 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://common-poets-pay.loca.lt/search?q=hello&format=json
+- **JSON test:** https://happy-geese-give.loca.lt/search?q=hello&format=json
