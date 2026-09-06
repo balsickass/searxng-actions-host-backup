@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://cuddly-deer-refuse.loca.lt](https://cuddly-deer-refuse.loca.lt)**
+👉 **[https://shaky-lemons-march.loca.lt](https://shaky-lemons-march.loca.lt)**
 
-- **Started:** 2026-09-06 10:09:54 UTC
+- **Started:** 2026-09-06 15:09:31 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://cuddly-deer-refuse.loca.lt/search?q=hello&format=json
+- **JSON test:** https://shaky-lemons-march.loca.lt/search?q=hello&format=json
