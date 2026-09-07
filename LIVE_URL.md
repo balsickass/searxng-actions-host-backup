@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://early-pianos-hear.loca.lt](https://early-pianos-hear.loca.lt)**
+👉 **[https://deep-jokes-make.loca.lt](https://deep-jokes-make.loca.lt)**
 
-- **Started:** 2026-09-07 00:16:47 UTC
+- **Started:** 2026-09-07 05:09:45 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://early-pianos-hear.loca.lt/search?q=hello&format=json
+- **JSON test:** https://deep-jokes-make.loca.lt/search?q=hello&format=json
