@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://many-candles-rhyme.loca.lt](https://many-candles-rhyme.loca.lt)**
+👉 **[https://large-bugs-grow.loca.lt](https://large-bugs-grow.loca.lt)**
 
-- **Started:** 2026-09-07 20:10:25 UTC
+- **Started:** 2026-09-08 00:16:38 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://many-candles-rhyme.loca.lt/search?q=hello&format=json
+- **JSON test:** https://large-bugs-grow.loca.lt/search?q=hello&format=json
