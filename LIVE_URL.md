@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://cold-parts-chew.loca.lt](https://cold-parts-chew.loca.lt)**
+👉 **[https://strong-carrots-strive.loca.lt](https://strong-carrots-strive.loca.lt)**
 
-- **Started:** 2026-09-09 10:10:50 UTC
+- **Started:** 2026-09-09 15:09:49 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://cold-parts-chew.loca.lt/search?q=hello&format=json
+- **JSON test:** https://strong-carrots-strive.loca.lt/search?q=hello&format=json
