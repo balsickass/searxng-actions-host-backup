@@ -1,6 +1,6 @@
-2026-09-09 05:09:48,103 ERROR:searx.engines: (PID 2132) ahmia: can't register engine (loading engine failed)
-2026-09-09 05:09:48,254 ERROR:searx.engines: (PID 2132) torch: can't register engine (loading engine failed)
-2026-09-09 05:09:48,301 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-09-09 05:09:53,206 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-09-09 05:09:53,459 WARNING:searx.engines.startpage: ErrorContext('searx/engines/startpage.py', 219, 'raise SearxEngineCaptchaException(', 'searx.exceptions.SearxEngineCaptchaException', None, ('get_sc_code: [PR-695] querying new sc timestamp failed! (https://www.startpage.com/) (suspended_time=3600)',)) False
-2026-09-09 05:09:53,467 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-09-09 10:10:31,514 ERROR:searx.engines: (PID 2131) ahmia: can't register engine (loading engine failed)
+2026-09-09 10:10:31,663 ERROR:searx.engines: (PID 2131) torch: can't register engine (loading engine failed)
+2026-09-09 10:10:31,709 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-09-09 10:10:36,274 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-09-09 10:10:36,560 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-09-09 10:10:36,575 WARNING:searx.engines.startpage: ErrorContext('searx/engines/startpage.py', 219, 'raise SearxEngineCaptchaException(', 'searx.exceptions.SearxEngineCaptchaException', None, ('get_sc_code: [PR-695] querying new sc timestamp failed! (https://www.startpage.com/) (suspended_time=3600)',)) False
