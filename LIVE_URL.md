@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://tiny-baboons-add.loca.lt](https://tiny-baboons-add.loca.lt)**
+👉 **[https://fuzzy-paws-type.loca.lt](https://fuzzy-paws-type.loca.lt)**
 
-- **Started:** 2026-09-10 00:14:26 UTC
+- **Started:** 2026-09-10 05:10:01 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://tiny-baboons-add.loca.lt/search?q=hello&format=json
+- **JSON test:** https://fuzzy-paws-type.loca.lt/search?q=hello&format=json
