@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://olive-pillows-prove.loca.lt](https://olive-pillows-prove.loca.lt)**
+👉 **[https://nasty-nights-worry.loca.lt](https://nasty-nights-worry.loca.lt)**
 
-- **Started:** 2026-09-10 10:10:36 UTC
+- **Started:** 2026-09-10 15:10:08 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://olive-pillows-prove.loca.lt/search?q=hello&format=json
+- **JSON test:** https://nasty-nights-worry.loca.lt/search?q=hello&format=json
