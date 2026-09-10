@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://smooth-ads-agree.loca.lt](https://smooth-ads-agree.loca.lt)**
+👉 **[https://tiny-baboons-add.loca.lt](https://tiny-baboons-add.loca.lt)**
 
-- **Started:** 2026-09-09 20:10:56 UTC
+- **Started:** 2026-09-10 00:14:26 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://smooth-ads-agree.loca.lt/search?q=hello&format=json
+- **JSON test:** https://tiny-baboons-add.loca.lt/search?q=hello&format=json
