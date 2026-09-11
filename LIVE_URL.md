@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://tall-kiwis-enter.loca.lt](https://tall-kiwis-enter.loca.lt)**
+👉 **[https://five-rabbits-attack.loca.lt](https://five-rabbits-attack.loca.lt)**
 
-- **Started:** 2026-09-11 05:09:49 UTC
+- **Started:** 2026-09-11 10:10:41 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://tall-kiwis-enter.loca.lt/search?q=hello&format=json
+- **JSON test:** https://five-rabbits-attack.loca.lt/search?q=hello&format=json
