@@ -1,5 +1,5 @@
-2026-09-13 15:09:24,840 ERROR:searx.engines: (PID 2424) ahmia: can't register engine (loading engine failed)
-2026-09-13 15:09:25,039 ERROR:searx.engines: (PID 2424) torch: can't register engine (loading engine failed)
-2026-09-13 15:09:25,107 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-09-13 15:09:29,675 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-09-13 15:09:29,829 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-09-13 20:10:17,272 ERROR:searx.engines: (PID 2367) ahmia: can't register engine (loading engine failed)
+2026-09-13 20:10:17,463 ERROR:searx.engines: (PID 2367) torch: can't register engine (loading engine failed)
+2026-09-13 20:10:17,528 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-09-13 20:10:22,270 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-09-13 20:10:22,462 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False

@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://short-masks-argue.loca.lt](https://short-masks-argue.loca.lt)**
+👉 **[https://clean-cobras-tell.loca.lt](https://clean-cobras-tell.loca.lt)**
 
-- **Started:** 2026-09-13 15:14:15 UTC
+- **Started:** 2026-09-13 20:10:29 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://short-masks-argue.loca.lt/search?q=hello&format=json
+- **JSON test:** https://clean-cobras-tell.loca.lt/search?q=hello&format=json
