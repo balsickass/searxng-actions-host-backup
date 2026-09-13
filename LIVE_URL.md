@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://stupid-books-greet.loca.lt](https://stupid-books-greet.loca.lt)**
+👉 **[https://salty-ties-love.loca.lt](https://salty-ties-love.loca.lt)**
 
-- **Started:** 2026-09-12 20:09:58 UTC
+- **Started:** 2026-09-13 00:15:08 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://stupid-books-greet.loca.lt/search?q=hello&format=json
+- **JSON test:** https://salty-ties-love.loca.lt/search?q=hello&format=json
