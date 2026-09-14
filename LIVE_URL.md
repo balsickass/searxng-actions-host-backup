@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://clean-cobras-tell.loca.lt](https://clean-cobras-tell.loca.lt)**
+👉 **[https://light-jokes-happen.loca.lt](https://light-jokes-happen.loca.lt)**
 
-- **Started:** 2026-09-13 20:10:29 UTC
+- **Started:** 2026-09-14 00:54:30 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://clean-cobras-tell.loca.lt/search?q=hello&format=json
+- **JSON test:** https://light-jokes-happen.loca.lt/search?q=hello&format=json
