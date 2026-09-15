@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://fifty-waves-hug.loca.lt](https://fifty-waves-hug.loca.lt)**
+👉 **[https://fancy-hands-teach.loca.lt](https://fancy-hands-teach.loca.lt)**
 
-- **Started:** 2026-09-15 00:14:45 UTC
+- **Started:** 2026-09-15 05:10:37 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://fifty-waves-hug.loca.lt/search?q=hello&format=json
+- **JSON test:** https://fancy-hands-teach.loca.lt/search?q=hello&format=json
