@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://shaky-fans-beam.loca.lt](https://shaky-fans-beam.loca.lt)**
+👉 **[https://slow-masks-read.loca.lt](https://slow-masks-read.loca.lt)**
 
-- **Started:** 2026-09-17 20:10:59 UTC
+- **Started:** 2026-09-18 00:14:01 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://shaky-fans-beam.loca.lt/search?q=hello&format=json
+- **JSON test:** https://slow-masks-read.loca.lt/search?q=hello&format=json
