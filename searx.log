@@ -1,7 +1,5 @@
-2026-09-18 05:09:37,214 ERROR:searx.engines: (PID 2414) ahmia: can't register engine (loading engine failed)
-2026-09-18 05:09:37,409 ERROR:searx.engines: (PID 2414) torch: can't register engine (loading engine failed)
-2026-09-18 05:09:37,474 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-09-18 05:09:42,102 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-09-18 05:09:42,190 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
-2026-09-18 05:09:42,237 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
-2026-09-18 05:09:42,310 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-09-18 10:10:28,093 ERROR:searx.engines: (PID 2357) ahmia: can't register engine (loading engine failed)
+2026-09-18 10:10:28,289 ERROR:searx.engines: (PID 2357) torch: can't register engine (loading engine failed)
+2026-09-18 10:10:28,351 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-09-18 10:10:33,248 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-09-18 10:10:33,442 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False

@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://warm-apes-post.loca.lt](https://warm-apes-post.loca.lt)**
+👉 **[https://smart-bats-cough.loca.lt](https://smart-bats-cough.loca.lt)**
 
-- **Started:** 2026-09-18 05:09:46 UTC
+- **Started:** 2026-09-18 10:10:38 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://warm-apes-post.loca.lt/search?q=hello&format=json
+- **JSON test:** https://smart-bats-cough.loca.lt/search?q=hello&format=json
