@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://many-friends-yell.loca.lt](https://many-friends-yell.loca.lt)**
+👉 **[https://evil-stars-count.loca.lt](https://evil-stars-count.loca.lt)**
 
-- **Started:** 2026-09-19 00:14:34 UTC
+- **Started:** 2026-09-19 05:09:12 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://many-friends-yell.loca.lt/search?q=hello&format=json
+- **JSON test:** https://evil-stars-count.loca.lt/search?q=hello&format=json
