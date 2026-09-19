@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://two-beds-learn.loca.lt](https://two-beds-learn.loca.lt)**
+👉 **[https://clear-spies-cross.loca.lt](https://clear-spies-cross.loca.lt)**
 
-- **Started:** 2026-09-19 10:09:51 UTC
+- **Started:** 2026-09-19 15:09:16 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://two-beds-learn.loca.lt/search?q=hello&format=json
+- **JSON test:** https://clear-spies-cross.loca.lt/search?q=hello&format=json
