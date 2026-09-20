@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://slick-things-knock.loca.lt](https://slick-things-knock.loca.lt)**
+👉 **[https://pretty-symbols-hunt.loca.lt](https://pretty-symbols-hunt.loca.lt)**
 
-- **Started:** 2026-09-20 10:09:33 UTC
+- **Started:** 2026-09-20 15:09:16 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://slick-things-knock.loca.lt/search?q=hello&format=json
+- **JSON test:** https://pretty-symbols-hunt.loca.lt/search?q=hello&format=json
