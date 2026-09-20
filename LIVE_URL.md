@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://pretty-symbols-hunt.loca.lt](https://pretty-symbols-hunt.loca.lt)**
+👉 **[https://cute-terms-study.loca.lt](https://cute-terms-study.loca.lt)**
 
-- **Started:** 2026-09-20 15:09:16 UTC
+- **Started:** 2026-09-20 20:09:11 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://pretty-symbols-hunt.loca.lt/search?q=hello&format=json
+- **JSON test:** https://cute-terms-study.loca.lt/search?q=hello&format=json
