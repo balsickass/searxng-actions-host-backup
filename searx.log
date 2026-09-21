@@ -1,5 +1,7 @@
-2026-09-21 05:10:10,924 ERROR:searx.engines: (PID 2120) ahmia: can't register engine (loading engine failed)
-2026-09-21 05:10:11,061 ERROR:searx.engines: (PID 2120) torch: can't register engine (loading engine failed)
-2026-09-21 05:10:11,100 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-09-21 05:10:14,918 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-09-21 05:10:15,181 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-09-21 10:09:59,286 ERROR:searx.engines: (PID 2362) ahmia: can't register engine (loading engine failed)
+2026-09-21 10:09:59,481 ERROR:searx.engines: (PID 2362) torch: can't register engine (loading engine failed)
+2026-09-21 10:09:59,541 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-09-21 10:10:04,169 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-09-21 10:10:04,336 WARNING:searx.network.wikidata: HTTP Request failed: POST https://query.wikidata.org/sparql
+2026-09-21 10:10:04,373 WARNING:searx.engines.wikidata: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
+2026-09-21 10:10:04,456 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False

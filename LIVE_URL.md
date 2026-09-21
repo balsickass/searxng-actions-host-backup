@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://metal-hoops-cheat.loca.lt](https://metal-hoops-cheat.loca.lt)**
+👉 **[https://quiet-tigers-talk.loca.lt](https://quiet-tigers-talk.loca.lt)**
 
-- **Started:** 2026-09-21 05:10:24 UTC
+- **Started:** 2026-09-21 10:10:08 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://metal-hoops-cheat.loca.lt/search?q=hello&format=json
+- **JSON test:** https://quiet-tigers-talk.loca.lt/search?q=hello&format=json
