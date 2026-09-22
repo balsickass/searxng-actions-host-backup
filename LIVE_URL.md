@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://great-clowns-serve.loca.lt](https://great-clowns-serve.loca.lt)**
+👉 **[https://pink-poets-bet.loca.lt](https://pink-poets-bet.loca.lt)**
 
-- **Started:** 2026-09-22 00:13:47 UTC
+- **Started:** 2026-09-22 05:09:49 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://great-clowns-serve.loca.lt/search?q=hello&format=json
+- **JSON test:** https://pink-poets-bet.loca.lt/search?q=hello&format=json
