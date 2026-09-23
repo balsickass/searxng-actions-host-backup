@@ -1,8 +1,5 @@
-2026-09-23 00:13:32,328 ERROR:searx.engines: (PID 2350) ahmia: can't register engine (loading engine failed)
-2026-09-23 00:13:32,531 ERROR:searx.engines: (PID 2350) torch: can't register engine (loading engine failed)
-2026-09-23 00:13:32,597 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-09-23 00:13:37,259 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-09-23 00:13:37,476 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
-2026-09-23 00:13:40,266 ERROR:searx.engines.wikidata: engine timeout
-2026-09-23 00:13:40,278 ERROR:searx: call to ResultContainer.add_unresponsive_engine after ResultContainer.close
-2026-09-23 00:13:40,286 WARNING:searx.engines.wikidata: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'curl_cffi.requests.exceptions.Timeout', None, (None, None, 'query.wikidata.org')) False
+2026-09-23 05:09:23,965 ERROR:searx.engines: (PID 2393) ahmia: can't register engine (loading engine failed)
+2026-09-23 05:09:24,161 ERROR:searx.engines: (PID 2393) torch: can't register engine (loading engine failed)
+2026-09-23 05:09:24,224 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-09-23 05:09:28,796 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-09-23 05:09:28,915 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
