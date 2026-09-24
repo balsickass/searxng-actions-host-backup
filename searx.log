@@ -1,8 +1,8 @@
-2026-09-24 00:13:31,216 ERROR:searx.engines: (PID 2425) ahmia: can't register engine (loading engine failed)
-2026-09-24 00:13:31,428 ERROR:searx.engines: (PID 2425) torch: can't register engine (loading engine failed)
-2026-09-24 00:13:31,491 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-09-24 00:13:36,187 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-09-24 00:13:36,528 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
-2026-09-24 00:13:39,194 ERROR:searx.engines.wikidata: engine timeout
-2026-09-24 00:13:39,209 ERROR:searx: call to ResultContainer.add_unresponsive_engine after ResultContainer.close
-2026-09-24 00:13:39,216 WARNING:searx.engines.wikidata: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'curl_cffi.requests.exceptions.Timeout', None, (None, None, 'query.wikidata.org')) False
+2026-09-24 05:09:19,802 ERROR:searx.engines: (PID 2202) ahmia: can't register engine (loading engine failed)
+2026-09-24 05:09:19,944 ERROR:searx.engines: (PID 2202) torch: can't register engine (loading engine failed)
+2026-09-24 05:09:19,990 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-09-24 05:09:24,983 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-09-24 05:09:25,177 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-09-24 05:09:27,989 ERROR:searx.engines.wikidata: engine timeout
+2026-09-24 05:09:28,001 ERROR:searx: call to ResultContainer.add_unresponsive_engine after ResultContainer.close
+2026-09-24 05:09:28,002 WARNING:searx.engines.wikidata: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'curl_cffi.requests.exceptions.Timeout', None, (None, None, 'query.wikidata.org')) False
