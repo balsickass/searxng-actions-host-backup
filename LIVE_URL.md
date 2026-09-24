@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://deep-turtles-fail.loca.lt](https://deep-turtles-fail.loca.lt)**
+👉 **[https://short-pandas-scream.loca.lt](https://short-pandas-scream.loca.lt)**
 
-- **Started:** 2026-09-24 05:09:29 UTC
+- **Started:** 2026-09-24 10:10:08 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://deep-turtles-fail.loca.lt/search?q=hello&format=json
+- **JSON test:** https://short-pandas-scream.loca.lt/search?q=hello&format=json
