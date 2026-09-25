@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://quick-vans-work.loca.lt](https://quick-vans-work.loca.lt)**
+👉 **[https://loud-clowns-roll.loca.lt](https://loud-clowns-roll.loca.lt)**
 
-- **Started:** 2026-09-24 20:11:10 UTC
+- **Started:** 2026-09-25 00:15:19 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://quick-vans-work.loca.lt/search?q=hello&format=json
+- **JSON test:** https://loud-clowns-roll.loca.lt/search?q=hello&format=json
