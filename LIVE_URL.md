@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://loud-clowns-roll.loca.lt](https://loud-clowns-roll.loca.lt)**
+👉 **[https://eight-humans-live.loca.lt](https://eight-humans-live.loca.lt)**
 
-- **Started:** 2026-09-25 00:15:19 UTC
+- **Started:** 2026-09-25 05:09:16 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://loud-clowns-roll.loca.lt/search?q=hello&format=json
+- **JSON test:** https://eight-humans-live.loca.lt/search?q=hello&format=json
