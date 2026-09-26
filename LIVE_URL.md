@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://wild-yaks-smell.loca.lt](https://wild-yaks-smell.loca.lt)**
+👉 **[https://nine-rooms-jump.loca.lt](https://nine-rooms-jump.loca.lt)**
 
-- **Started:** 2026-09-26 05:09:34 UTC
+- **Started:** 2026-09-26 10:10:03 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://wild-yaks-smell.loca.lt/search?q=hello&format=json
+- **JSON test:** https://nine-rooms-jump.loca.lt/search?q=hello&format=json
