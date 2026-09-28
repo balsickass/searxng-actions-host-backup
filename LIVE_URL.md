@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://smooth-eels-cut.loca.lt](https://smooth-eels-cut.loca.lt)**
+👉 **[https://happy-wings-trade.loca.lt](https://happy-wings-trade.loca.lt)**
 
-- **Started:** 2026-09-28 10:12:01 UTC
+- **Started:** 2026-09-28 15:12:53 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://smooth-eels-cut.loca.lt/search?q=hello&format=json
+- **JSON test:** https://happy-wings-trade.loca.lt/search?q=hello&format=json
