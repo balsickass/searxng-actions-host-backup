@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://beige-actors-jog.loca.lt](https://beige-actors-jog.loca.lt)**
+👉 **[https://odd-moose-argue.loca.lt](https://odd-moose-argue.loca.lt)**
 
-- **Started:** 2026-09-29 05:10:08 UTC
+- **Started:** 2026-09-29 10:11:12 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://beige-actors-jog.loca.lt/search?q=hello&format=json
+- **JSON test:** https://odd-moose-argue.loca.lt/search?q=hello&format=json
