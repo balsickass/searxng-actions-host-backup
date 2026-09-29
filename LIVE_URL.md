@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://weak-bags-write.loca.lt](https://weak-bags-write.loca.lt)**
+👉 **[https://fifty-beans-happen.loca.lt](https://fifty-beans-happen.loca.lt)**
 
-- **Started:** 2026-09-29 15:13:24 UTC
+- **Started:** 2026-09-29 20:11:37 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://weak-bags-write.loca.lt/search?q=hello&format=json
+- **JSON test:** https://fifty-beans-happen.loca.lt/search?q=hello&format=json
