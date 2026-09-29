@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://eleven-guests-bathe.loca.lt](https://eleven-guests-bathe.loca.lt)**
+👉 **[https://beige-actors-jog.loca.lt](https://beige-actors-jog.loca.lt)**
 
-- **Started:** 2026-09-29 00:15:05 UTC
+- **Started:** 2026-09-29 05:10:08 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://eleven-guests-bathe.loca.lt/search?q=hello&format=json
+- **JSON test:** https://beige-actors-jog.loca.lt/search?q=hello&format=json
