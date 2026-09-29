@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://odd-moose-argue.loca.lt](https://odd-moose-argue.loca.lt)**
+👉 **[https://weak-bags-write.loca.lt](https://weak-bags-write.loca.lt)**
 
-- **Started:** 2026-09-29 10:11:12 UTC
+- **Started:** 2026-09-29 15:13:24 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://odd-moose-argue.loca.lt/search?q=hello&format=json
+- **JSON test:** https://weak-bags-write.loca.lt/search?q=hello&format=json
