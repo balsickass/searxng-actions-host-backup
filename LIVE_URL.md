@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://ready-hotels-nail.loca.lt](https://ready-hotels-nail.loca.lt)**
+👉 **[https://neat-carpets-leave.loca.lt](https://neat-carpets-leave.loca.lt)**
 
-- **Started:** 2026-10-01 15:11:59 UTC
+- **Started:** 2026-10-01 20:11:20 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://ready-hotels-nail.loca.lt/search?q=hello&format=json
+- **JSON test:** https://neat-carpets-leave.loca.lt/search?q=hello&format=json
