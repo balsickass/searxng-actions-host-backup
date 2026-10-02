@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://happy-pugs-peel.loca.lt](https://happy-pugs-peel.loca.lt)**
+👉 **[https://moody-oranges-crash.loca.lt](https://moody-oranges-crash.loca.lt)**
 
-- **Started:** 2026-10-02 15:12:26 UTC
+- **Started:** 2026-10-02 20:09:46 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://happy-pugs-peel.loca.lt/search?q=hello&format=json
+- **JSON test:** https://moody-oranges-crash.loca.lt/search?q=hello&format=json
