@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://better-plants-cheer.loca.lt](https://better-plants-cheer.loca.lt)**
+👉 **[https://good-corners-grab.loca.lt](https://good-corners-grab.loca.lt)**
 
-- **Started:** 2026-10-05 12:02:50 UTC
+- **Started:** 2026-10-05 21:49:42 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://better-plants-cheer.loca.lt/search?q=hello&format=json
+- **JSON test:** https://good-corners-grab.loca.lt/search?q=hello&format=json
