@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://tidy-baboons-clean.loca.lt](https://tidy-baboons-clean.loca.lt)**
+👉 **[https://rich-horses-leave.loca.lt](https://rich-horses-leave.loca.lt)**
 
-- **Started:** 2026-10-06 04:56:40 UTC
+- **Started:** 2026-10-06 11:50:23 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://tidy-baboons-clean.loca.lt/search?q=hello&format=json
+- **JSON test:** https://rich-horses-leave.loca.lt/search?q=hello&format=json
