@@ -1,7 +1,7 @@
-2026-10-06 19:58:44,779 ERROR:searx.engines: (PID 2186) ahmia: can't register engine (loading engine failed)
-2026-10-06 19:58:44,892 ERROR:searx.engines: (PID 2186) torch: can't register engine (loading engine failed)
-2026-10-06 19:58:44,928 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-10-06 19:58:50,167 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-10-06 19:58:50,273 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
-2026-10-06 19:58:50,279 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
-2026-10-06 19:58:50,309 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
+2026-10-06 23:44:20,752 ERROR:searx.engines: (PID 2411) ahmia: can't register engine (loading engine failed)
+2026-10-06 23:44:20,947 ERROR:searx.engines: (PID 2411) torch: can't register engine (loading engine failed)
+2026-10-06 23:44:21,013 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-10-06 23:44:25,523 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-10-06 23:44:25,640 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-10-06 23:44:25,791 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
+2026-10-06 23:44:25,797 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
