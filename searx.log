@@ -1,10 +1,7 @@
-2026-10-09 04:37:47,006 ERROR:searx.engines: (PID 2325) ahmia: can't register engine (loading engine failed)
-2026-10-09 04:37:47,180 ERROR:searx.engines: (PID 2325) torch: can't register engine (loading engine failed)
-2026-10-09 04:37:47,235 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-10-09 04:37:51,791 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-10-09 04:37:51,912 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
-2026-10-09 04:37:51,984 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
-2026-10-09 04:37:51,988 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
-2026-10-09 04:37:54,798 ERROR:searx.engines.wikidata: engine timeout
-2026-10-09 04:37:54,812 ERROR:searx: call to ResultContainer.add_unresponsive_engine after ResultContainer.close
-2026-10-09 04:37:54,813 WARNING:searx.engines.wikidata: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'curl_cffi.requests.exceptions.Timeout', None, (None, None, 'query.wikidata.org')) False
+2026-10-09 11:39:27,966 ERROR:searx.engines: (PID 2469) ahmia: can't register engine (loading engine failed)
+2026-10-09 11:39:28,166 ERROR:searx.engines: (PID 2469) torch: can't register engine (loading engine failed)
+2026-10-09 11:39:28,231 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-10-09 11:39:32,674 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-10-09 11:39:32,818 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
+2026-10-09 11:39:32,856 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-10-09 11:39:32,896 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False

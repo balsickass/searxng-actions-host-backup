@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://rich-zebras-tie.loca.lt](https://rich-zebras-tie.loca.lt)**
+👉 **[https://ten-turtles-peel.loca.lt](https://ten-turtles-peel.loca.lt)**
 
-- **Started:** 2026-10-09 04:37:56 UTC
+- **Started:** 2026-10-09 11:39:35 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://rich-zebras-tie.loca.lt/search?q=hello&format=json
+- **JSON test:** https://ten-turtles-peel.loca.lt/search?q=hello&format=json
