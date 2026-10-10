@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://shy-ravens-sink.loca.lt](https://shy-ravens-sink.loca.lt)**
+👉 **[https://ready-actors-kneel.loca.lt](https://ready-actors-kneel.loca.lt)**
 
-- **Started:** 2026-10-10 05:26:36 UTC
+- **Started:** 2026-10-10 15:42:47 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://shy-ravens-sink.loca.lt/search?q=hello&format=json
+- **JSON test:** https://ready-actors-kneel.loca.lt/search?q=hello&format=json
