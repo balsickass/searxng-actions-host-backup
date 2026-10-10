@@ -1,7 +1,7 @@
-2026-10-09 23:58:44,990 ERROR:searx.engines: (PID 2208) ahmia: can't register engine (loading engine failed)
-2026-10-09 23:58:45,153 ERROR:searx.engines: (PID 2208) torch: can't register engine (loading engine failed)
-2026-10-09 23:58:45,204 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-10-09 23:58:49,841 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-10-09 23:58:49,938 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
-2026-10-09 23:58:50,025 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
-2026-10-09 23:58:50,064 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
+2026-10-10 05:26:27,975 ERROR:searx.engines: (PID 2188) ahmia: can't register engine (loading engine failed)
+2026-10-10 05:26:28,127 ERROR:searx.engines: (PID 2188) torch: can't register engine (loading engine failed)
+2026-10-10 05:26:28,176 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-10-10 05:26:32,710 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-10-10 05:26:32,810 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
+2026-10-10 05:26:32,858 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
+2026-10-10 05:26:32,945 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
