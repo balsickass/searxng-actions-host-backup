@@ -1,7 +1,10 @@
-2026-10-13 17:21:37,855 ERROR:searx.engines: (PID 2420) ahmia: can't register engine (loading engine failed)
-2026-10-13 17:21:38,051 ERROR:searx.engines: (PID 2420) torch: can't register engine (loading engine failed)
-2026-10-13 17:21:38,115 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-10-13 17:21:42,929 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-10-13 17:21:43,011 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
-2026-10-13 17:21:43,047 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
-2026-10-13 17:21:43,082 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-10-13 23:36:09,759 ERROR:searx.engines: (PID 2205) ahmia: can't register engine (loading engine failed)
+2026-10-13 23:36:09,883 ERROR:searx.engines: (PID 2205) torch: can't register engine (loading engine failed)
+2026-10-13 23:36:09,921 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-10-13 23:36:15,030 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-10-13 23:36:15,279 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-10-13 23:36:15,344 WARNING:searx.network.brave: HTTP Request failed: GET https://search.brave.com/search?q=hello&source=web
+2026-10-13 23:36:15,353 WARNING:searx.engines.brave: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'searx.exceptions.SearxEngineTooManyRequestsException', None, ('Too many request (suspended_time=180)',)) False
+2026-10-13 23:36:18,035 ERROR:searx.engines.wikidata: engine timeout
+2026-10-13 23:36:18,042 ERROR:searx: call to ResultContainer.add_unresponsive_engine after ResultContainer.close
+2026-10-13 23:36:18,043 WARNING:searx.engines.wikidata: ErrorContext('searx/search/processors/online.py', 211, 'response = req(params["url"], **request_args)  # pyright: ignore[reportArgumentType]', 'curl_cffi.requests.exceptions.Timeout', None, (None, None, 'query.wikidata.org')) False
