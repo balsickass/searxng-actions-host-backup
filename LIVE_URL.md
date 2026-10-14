@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://lazy-spoons-vanish.loca.lt](https://lazy-spoons-vanish.loca.lt)**
+👉 **[https://sixty-humans-fall.loca.lt](https://sixty-humans-fall.loca.lt)**
 
-- **Started:** 2026-10-14 09:55:51 UTC
+- **Started:** 2026-10-14 14:53:47 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://lazy-spoons-vanish.loca.lt/search?q=hello&format=json
+- **JSON test:** https://sixty-humans-fall.loca.lt/search?q=hello&format=json
