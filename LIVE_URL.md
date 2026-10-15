@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://dry-pigs-eat.loca.lt](https://dry-pigs-eat.loca.lt)**
+👉 **[https://fuzzy-dancers-take.loca.lt](https://fuzzy-dancers-take.loca.lt)**
 
-- **Started:** 2026-10-15 18:53:41 UTC
+- **Started:** 2026-10-15 22:54:43 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://dry-pigs-eat.loca.lt/search?q=hello&format=json
+- **JSON test:** https://fuzzy-dancers-take.loca.lt/search?q=hello&format=json
