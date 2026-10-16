@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://floppy-kings-peel.loca.lt](https://floppy-kings-peel.loca.lt)**
+👉 **[https://vast-kiwis-go.loca.lt](https://vast-kiwis-go.loca.lt)**
 
-- **Started:** 2026-10-16 14:32:23 UTC
+- **Started:** 2026-10-16 18:37:53 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://floppy-kings-peel.loca.lt/search?q=hello&format=json
+- **JSON test:** https://vast-kiwis-go.loca.lt/search?q=hello&format=json
