@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://huge-deer-fold.loca.lt](https://huge-deer-fold.loca.lt)**
+👉 **[https://easy-trees-behave.loca.lt](https://easy-trees-behave.loca.lt)**
 
-- **Started:** 2026-10-18 13:46:41 UTC
+- **Started:** 2026-10-18 17:50:38 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://huge-deer-fold.loca.lt/search?q=hello&format=json
+- **JSON test:** https://easy-trees-behave.loca.lt/search?q=hello&format=json
