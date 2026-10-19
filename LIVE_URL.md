@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://public-ants-serve.loca.lt](https://public-ants-serve.loca.lt)**
+👉 **[https://nice-parents-dress.loca.lt](https://nice-parents-dress.loca.lt)**
 
-- **Started:** 2026-10-19 03:19:30 UTC
+- **Started:** 2026-10-19 10:30:53 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://public-ants-serve.loca.lt/search?q=hello&format=json
+- **JSON test:** https://nice-parents-dress.loca.lt/search?q=hello&format=json
