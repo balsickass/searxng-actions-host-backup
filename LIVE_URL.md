@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://poor-clocks-tap.loca.lt](https://poor-clocks-tap.loca.lt)**
+👉 **[https://floppy-birds-relate.loca.lt](https://floppy-birds-relate.loca.lt)**
 
-- **Started:** 2026-10-20 18:54:46 UTC
+- **Started:** 2026-10-20 22:56:37 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://poor-clocks-tap.loca.lt/search?q=hello&format=json
+- **JSON test:** https://floppy-birds-relate.loca.lt/search?q=hello&format=json
