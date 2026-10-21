@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://floppy-birds-relate.loca.lt](https://floppy-birds-relate.loca.lt)**
+👉 **[https://lovely-bars-sing.loca.lt](https://lovely-bars-sing.loca.lt)**
 
-- **Started:** 2026-10-20 22:56:37 UTC
+- **Started:** 2026-10-21 03:23:24 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://floppy-birds-relate.loca.lt/search?q=hello&format=json
+- **JSON test:** https://lovely-bars-sing.loca.lt/search?q=hello&format=json
