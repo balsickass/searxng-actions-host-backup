@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://weak-dragons-melt.loca.lt](https://weak-dragons-melt.loca.lt)**
+👉 **[https://fair-hands-rush.loca.lt](https://fair-hands-rush.loca.lt)**
 
-- **Started:** 2026-10-21 19:06:51 UTC
+- **Started:** 2026-10-21 23:02:32 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://weak-dragons-melt.loca.lt/search?q=hello&format=json
+- **JSON test:** https://fair-hands-rush.loca.lt/search?q=hello&format=json
