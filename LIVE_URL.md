@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://warm-buses-do.loca.lt](https://warm-buses-do.loca.lt)**
+👉 **[https://weak-dragons-melt.loca.lt](https://weak-dragons-melt.loca.lt)**
 
-- **Started:** 2026-10-21 14:51:18 UTC
+- **Started:** 2026-10-21 19:06:51 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://warm-buses-do.loca.lt/search?q=hello&format=json
+- **JSON test:** https://weak-dragons-melt.loca.lt/search?q=hello&format=json
