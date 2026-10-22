@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://dark-donuts-own.loca.lt](https://dark-donuts-own.loca.lt)**
+👉 **[https://puny-ghosts-do.loca.lt](https://puny-ghosts-do.loca.lt)**
 
-- **Started:** 2026-10-22 09:50:41 UTC
+- **Started:** 2026-10-22 14:53:00 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://dark-donuts-own.loca.lt/search?q=hello&format=json
+- **JSON test:** https://puny-ghosts-do.loca.lt/search?q=hello&format=json
