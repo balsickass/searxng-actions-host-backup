@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://puny-ghosts-do.loca.lt](https://puny-ghosts-do.loca.lt)**
+👉 **[https://sour-turtles-add.loca.lt](https://sour-turtles-add.loca.lt)**
 
-- **Started:** 2026-10-22 14:53:00 UTC
+- **Started:** 2026-10-22 19:03:16 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://puny-ghosts-do.loca.lt/search?q=hello&format=json
+- **JSON test:** https://sour-turtles-add.loca.lt/search?q=hello&format=json
