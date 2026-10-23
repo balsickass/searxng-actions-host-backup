@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://shaky-taxes-tap.loca.lt](https://shaky-taxes-tap.loca.lt)**
+👉 **[https://warm-peas-punch.loca.lt](https://warm-peas-punch.loca.lt)**
 
-- **Started:** 2026-10-23 03:27:05 UTC
+- **Started:** 2026-10-23 09:45:07 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://shaky-taxes-tap.loca.lt/search?q=hello&format=json
+- **JSON test:** https://warm-peas-punch.loca.lt/search?q=hello&format=json
