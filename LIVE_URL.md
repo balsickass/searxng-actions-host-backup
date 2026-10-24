@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://small-pillows-sin.loca.lt](https://small-pillows-sin.loca.lt)**
+👉 **[https://weak-poems-rhyme.loca.lt](https://weak-poems-rhyme.loca.lt)**
 
-- **Started:** 2026-10-24 09:18:00 UTC
+- **Started:** 2026-10-24 13:50:09 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://small-pillows-sin.loca.lt/search?q=hello&format=json
+- **JSON test:** https://weak-poems-rhyme.loca.lt/search?q=hello&format=json
