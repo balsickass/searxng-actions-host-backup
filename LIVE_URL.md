@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://wild-planets-feel.loca.lt](https://wild-planets-feel.loca.lt)**
+👉 **[https://six-cars-judge.loca.lt](https://six-cars-judge.loca.lt)**
 
-- **Started:** 2026-10-24 17:50:38 UTC
+- **Started:** 2026-10-24 22:15:21 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://wild-planets-feel.loca.lt/search?q=hello&format=json
+- **JSON test:** https://six-cars-judge.loca.lt/search?q=hello&format=json
