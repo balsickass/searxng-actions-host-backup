@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://cyan-windows-poke.loca.lt](https://cyan-windows-poke.loca.lt)**
+👉 **[https://little-drinks-argue.loca.lt](https://little-drinks-argue.loca.lt)**
 
-- **Started:** 2026-10-29 11:18:22 UTC
+- **Started:** 2026-10-29 20:04:30 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://cyan-windows-poke.loca.lt/search?q=hello&format=json
+- **JSON test:** https://little-drinks-argue.loca.lt/search?q=hello&format=json
