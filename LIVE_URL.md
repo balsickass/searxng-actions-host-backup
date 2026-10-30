@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://little-drinks-argue.loca.lt](https://little-drinks-argue.loca.lt)**
+👉 **[https://thin-flies-turn.loca.lt](https://thin-flies-turn.loca.lt)**
 
-- **Started:** 2026-10-29 20:04:30 UTC
+- **Started:** 2026-10-30 04:26:28 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://little-drinks-argue.loca.lt/search?q=hello&format=json
+- **JSON test:** https://thin-flies-turn.loca.lt/search?q=hello&format=json
