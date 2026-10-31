@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://plain-ads-burn.loca.lt](https://plain-ads-burn.loca.lt)**
+👉 **[https://lovely-breads-joke.loca.lt](https://lovely-breads-joke.loca.lt)**
 
-- **Started:** 2026-10-30 23:29:18 UTC
+- **Started:** 2026-10-31 04:07:00 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://plain-ads-burn.loca.lt/search?q=hello&format=json
+- **JSON test:** https://lovely-breads-joke.loca.lt/search?q=hello&format=json
