@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://lovely-breads-joke.loca.lt](https://lovely-breads-joke.loca.lt)**
+👉 **[https://tiny-dolls-see.loca.lt](https://tiny-dolls-see.loca.lt)**
 
-- **Started:** 2026-10-31 04:07:00 UTC
+- **Started:** 2026-10-31 10:43:50 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://lovely-breads-joke.loca.lt/search?q=hello&format=json
+- **JSON test:** https://tiny-dolls-see.loca.lt/search?q=hello&format=json
