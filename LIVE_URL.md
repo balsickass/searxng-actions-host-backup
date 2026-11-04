@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://thin-pumas-push.loca.lt](https://thin-pumas-push.loca.lt)**
+👉 **[https://orange-boats-sit.loca.lt](https://orange-boats-sit.loca.lt)**
 
-- **Started:** 2026-11-04 00:23:29 UTC
+- **Started:** 2026-11-04 12:46:58 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://thin-pumas-push.loca.lt/search?q=hello&format=json
+- **JSON test:** https://orange-boats-sit.loca.lt/search?q=hello&format=json
