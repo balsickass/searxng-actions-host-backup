@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://ten-hands-talk.loca.lt](https://ten-hands-talk.loca.lt)**
+👉 **[https://open-drinks-feel.loca.lt](https://open-drinks-feel.loca.lt)**
 
-- **Started:** 2026-11-08 04:30:31 UTC
+- **Started:** 2026-11-08 11:41:38 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://ten-hands-talk.loca.lt/search?q=hello&format=json
+- **JSON test:** https://open-drinks-feel.loca.lt/search?q=hello&format=json
