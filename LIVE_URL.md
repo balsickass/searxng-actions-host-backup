@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://fresh-berries-thank.loca.lt](https://fresh-berries-thank.loca.lt)**
+👉 **[https://vast-shrimps-repair.loca.lt](https://vast-shrimps-repair.loca.lt)**
 
-- **Started:** 2026-11-09 04:43:07 UTC
+- **Started:** 2026-11-09 13:37:37 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://fresh-berries-thank.loca.lt/search?q=hello&format=json
+- **JSON test:** https://vast-shrimps-repair.loca.lt/search?q=hello&format=json
