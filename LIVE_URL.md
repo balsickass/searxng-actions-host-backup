@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://two-camels-pay.loca.lt](https://two-camels-pay.loca.lt)**
+👉 **[https://hot-places-make.loca.lt](https://hot-places-make.loca.lt)**
 
-- **Started:** 2026-11-10 05:58:37 UTC
+- **Started:** 2026-11-10 17:30:03 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://two-camels-pay.loca.lt/search?q=hello&format=json
+- **JSON test:** https://hot-places-make.loca.lt/search?q=hello&format=json
