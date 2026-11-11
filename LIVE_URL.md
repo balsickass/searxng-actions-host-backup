@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://hot-places-make.loca.lt](https://hot-places-make.loca.lt)**
+👉 **[https://thirty-bars-teach.loca.lt](https://thirty-bars-teach.loca.lt)**
 
-- **Started:** 2026-11-10 17:30:03 UTC
+- **Started:** 2026-11-11 00:25:39 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://hot-places-make.loca.lt/search?q=hello&format=json
+- **JSON test:** https://thirty-bars-teach.loca.lt/search?q=hello&format=json
