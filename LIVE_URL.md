@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://shy-humans-open.loca.lt](https://shy-humans-open.loca.lt)**
+👉 **[https://dirty-cups-shave.loca.lt](https://dirty-cups-shave.loca.lt)**
 
-- **Started:** 2026-11-11 21:44:15 UTC
+- **Started:** 2026-11-12 05:48:40 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://shy-humans-open.loca.lt/search?q=hello&format=json
+- **JSON test:** https://dirty-cups-shave.loca.lt/search?q=hello&format=json
