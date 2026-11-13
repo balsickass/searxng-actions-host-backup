@@ -1,14 +1,14 @@
-2026-11-12 17:55:41,865 ERROR:searx.engines: (PID 2461) ahmia: can't register engine (loading engine failed)
-2026-11-12 17:55:41,875 ERROR:searx.engines.wikipedia: wikipedia engine requires general.contact_url (SEARXNG_CONTACT_URL)
-2026-11-12 17:55:41,875 ERROR:searx.engines: (PID 2461) wikipedia: engine setup was not successful
-2026-11-12 17:55:41,875 ERROR:searx.engines: (PID 2461) wikipedia: can't register engine (loading engine failed)
-2026-11-12 17:55:41,910 ERROR:searx.engines.wikidata: wikidata engine requires general.contact_url (SEARXNG_CONTACT_URL)
-2026-11-12 17:55:41,910 ERROR:searx.engines: (PID 2461) wikidata: engine setup was not successful
-2026-11-12 17:55:41,910 ERROR:searx.engines: (PID 2461) wikidata: can't register engine (loading engine failed)
-2026-11-12 17:55:42,019 ERROR:searx.engines.openstreetmap: OSM engine requires general.contact_url (SEARXNG_CONTACT_URL)
-2026-11-12 17:55:42,019 ERROR:searx.engines: (PID 2461) openstreetmap: engine setup was not successful
-2026-11-12 17:55:42,019 ERROR:searx.engines: (PID 2461) openstreetmap: can't register engine (loading engine failed)
-2026-11-12 17:55:42,060 ERROR:searx.engines: (PID 2461) torch: can't register engine (loading engine failed)
-2026-11-12 17:55:42,123 INFO:waitress: Serving on http://127.0.0.1:8888
-2026-11-12 17:55:46,532 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
-2026-11-12 17:55:46,725 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
+2026-11-13 00:53:44,323 ERROR:searx.engines: (PID 2230) ahmia: can't register engine (loading engine failed)
+2026-11-13 00:53:44,331 ERROR:searx.engines.wikipedia: wikipedia engine requires general.contact_url (SEARXNG_CONTACT_URL)
+2026-11-13 00:53:44,331 ERROR:searx.engines: (PID 2230) wikipedia: engine setup was not successful
+2026-11-13 00:53:44,331 ERROR:searx.engines: (PID 2230) wikipedia: can't register engine (loading engine failed)
+2026-11-13 00:53:44,360 ERROR:searx.engines.wikidata: wikidata engine requires general.contact_url (SEARXNG_CONTACT_URL)
+2026-11-13 00:53:44,360 ERROR:searx.engines: (PID 2230) wikidata: engine setup was not successful
+2026-11-13 00:53:44,360 ERROR:searx.engines: (PID 2230) wikidata: can't register engine (loading engine failed)
+2026-11-13 00:53:44,448 ERROR:searx.engines.openstreetmap: OSM engine requires general.contact_url (SEARXNG_CONTACT_URL)
+2026-11-13 00:53:44,448 ERROR:searx.engines: (PID 2230) openstreetmap: engine setup was not successful
+2026-11-13 00:53:44,448 ERROR:searx.engines: (PID 2230) openstreetmap: can't register engine (loading engine failed)
+2026-11-13 00:53:44,482 ERROR:searx.engines: (PID 2230) torch: can't register engine (loading engine failed)
+2026-11-13 00:53:44,532 INFO:waitress: Serving on http://127.0.0.1:8888
+2026-11-13 00:53:49,532 ERROR:searx.botdetection: X-Forwarded-For nor X-Real-IP header is set!
+2026-11-13 00:53:49,756 WARNING:searx.engines.duckduckgo: ErrorContext('searx/engines/duckduckgo.py', 477, 'raise SearxEngineCaptchaException(suspended_time=0, message=f"CAPTCHA ({params[\'data\'].get(\'kl\')})")', 'searx.exceptions.SearxEngineCaptchaException', None, ('CAPTCHA (wt-wt) (suspended_time=0)',)) False
