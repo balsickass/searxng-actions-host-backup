@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://dirty-bobcats-wave.loca.lt](https://dirty-bobcats-wave.loca.lt)**
+👉 **[https://dull-masks-drive.loca.lt](https://dull-masks-drive.loca.lt)**
 
-- **Started:** 2026-11-16 13:21:31 UTC
+- **Started:** 2026-11-16 23:38:53 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://dirty-bobcats-wave.loca.lt/search?q=hello&format=json
+- **JSON test:** https://dull-masks-drive.loca.lt/search?q=hello&format=json
