@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://fair-paws-drop.loca.lt](https://fair-paws-drop.loca.lt)**
+👉 **[https://slimy-doors-sin.loca.lt](https://slimy-doors-sin.loca.lt)**
 
-- **Started:** 2026-11-17 18:56:52 UTC
+- **Started:** 2026-11-18 02:08:12 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://fair-paws-drop.loca.lt/search?q=hello&format=json
+- **JSON test:** https://slimy-doors-sin.loca.lt/search?q=hello&format=json
