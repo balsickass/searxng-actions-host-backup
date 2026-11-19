@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://rich-apes-repeat.loca.lt](https://rich-apes-repeat.loca.lt)**
+👉 **[https://giant-dragons-throw.loca.lt](https://giant-dragons-throw.loca.lt)**
 
-- **Started:** 2026-11-18 22:29:06 UTC
+- **Started:** 2026-11-19 05:57:27 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://rich-apes-repeat.loca.lt/search?q=hello&format=json
+- **JSON test:** https://giant-dragons-throw.loca.lt/search?q=hello&format=json
