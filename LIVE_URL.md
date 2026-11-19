@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://giant-dragons-throw.loca.lt](https://giant-dragons-throw.loca.lt)**
+👉 **[https://five-cougars-end.loca.lt](https://five-cougars-end.loca.lt)**
 
-- **Started:** 2026-11-19 05:57:27 UTC
+- **Started:** 2026-11-19 19:23:50 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://giant-dragons-throw.loca.lt/search?q=hello&format=json
+- **JSON test:** https://five-cougars-end.loca.lt/search?q=hello&format=json
