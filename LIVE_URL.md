@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://thick-months-repair.loca.lt](https://thick-months-repair.loca.lt)**
+👉 **[https://bitter-baboons-work.loca.lt](https://bitter-baboons-work.loca.lt)**
 
-- **Started:** 2026-11-23 05:50:14 UTC
+- **Started:** 2026-11-23 22:15:07 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://thick-months-repair.loca.lt/search?q=hello&format=json
+- **JSON test:** https://bitter-baboons-work.loca.lt/search?q=hello&format=json
