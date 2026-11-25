@@ -1,8 +1,8 @@
 # 🌐 Live SearXNG URL
 
-👉 **[https://weak-berries-turn.loca.lt](https://weak-berries-turn.loca.lt)**
+👉 **[https://bright-drinks-agree.loca.lt](https://bright-drinks-agree.loca.lt)**
 
-- **Started:** 2026-11-25 07:02:13 UTC
+- **Started:** 2026-11-25 17:09:19 UTC
 - **Shift:** 270 mins
 - **Self-test:** FAILED: name 'json' is not defined
-- **JSON test:** https://weak-berries-turn.loca.lt/search?q=hello&format=json
+- **JSON test:** https://bright-drinks-agree.loca.lt/search?q=hello&format=json
